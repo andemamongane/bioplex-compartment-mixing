@@ -1,0 +1,13 @@
+,cell junction,cytoskeleton,cytosol,endoplasmic_reticulum,extracellular,golgi,lysosome,mitochondrion,nucleus,peroxisome,plasma_membrane,vesicle
+cell junction,1,1,1,0,5,0,0,2,19,0,6,1
+cytoskeleton,1,9,18,5,9,1,2,8,101,0,40,2
+cytosol,1,18,90,13,83,25,5,109,475,1,170,4
+endoplasmic_reticulum,0,5,13,5,46,10,2,16,55,0,40,0
+extracellular,5,9,83,46,113,113,7,132,291,1,207,1
+golgi,0,1,25,10,113,40,6,39,42,1,184,1
+lysosome,0,2,5,2,7,6,1,2,12,0,12,0
+mitochondrion,2,8,109,16,132,39,2,1121,717,0,390,4
+nucleus,19,101,475,55,291,42,12,717,3553,3,536,8
+peroxisome,0,0,1,0,1,1,0,0,3,0,4,1
+plasma_membrane,6,40,170,40,207,184,12,390,536,4,656,7
+vesicle,1,2,4,0,1,1,0,4,8,1,7,1
